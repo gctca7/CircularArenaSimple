@@ -1,5 +1,4 @@
-# CircularArenaSimple
- Analyze data from Yoshi Aso's circular arena - count flies in quadrants and return their x-y positions
+Analyzing circular arena videos:
 
 ArenaInfo = ArenaSetup() ;
     Determines ArenaEdge and calculates BackgroundImage of arena separately for Cam0 and Cam1
