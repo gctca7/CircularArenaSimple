@@ -13,4 +13,6 @@ Counts flies in each quadrant and returns
     FlyCount(Frame,Quadrant)
 
 PICalculator.m  
-Calculates PIs based on FlyCount and returns i) PI timecourse ii) half PI i.e. PI for one odor
+Calculates PIs based on FlyCount and returns  
+i) PI timecourse  
+ii) half PI i.e. PI for one odor
