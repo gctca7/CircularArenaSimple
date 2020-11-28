@@ -6,11 +6,11 @@ Determines ArenaEdge and calculates BackgroundImage of arena separately for Cam0
 
 FlySpotter.m  
 Locates flies centroids and returns  
-		Frame.FlySpots.Centroid
+    Frame.FlySpots.Centroid
 
 FlyCounter.m  
 Counts flies in each quadrant and returns  
-		FlyCount(Frame,Quadrant)
+    FlyCount(Frame,Quadrant)
 
 PICalculator.m  
 Calculates PIs based on FlyCount and returns i) PI timecourse ii) half PI i.e. PI for one odor
