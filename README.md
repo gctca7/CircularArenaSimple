@@ -1,11 +1,11 @@
 # CircularArenaSimple
- Analyze data from Yoshi Aso's circular arena - count flies in quadrants and return their x-y positions
+ Analyze data from Yoshi Aso's circular arena.  Count flies in quadrants & return their x-y positions
 
 ArenaInfo = ArenaSetup() ;
     Determines ArenaEdge and calculates BackgroundImage of arena separately for Cam0 and Cam1
 
 FlySpotter.m
-    Locates flies centroids and returns. 
+    Locates flies centroids and returns  
 		Frame.FlySpots.Centroid
 
 FlyCounter.m
